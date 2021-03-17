@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @busyH4ck3r
-- 👀 I’m interested in Ethical hacking
+- 👀 I’m interested in Ethical hacking and Digital forensics
 - 🌱 I’m currently learning exploit development and shellcoding with python
 - 💞️ I’m looking to collaborate on python for hacking
 - 📫 How to reach me on my youtube channel and twitter handles 
